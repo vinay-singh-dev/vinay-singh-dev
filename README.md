@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm Vinay Pratap Singh Baghel</h1>
+<h1 align="center">
+   Hi 👋, I'm Vinay Pratap Singh Baghel
+</h1>
+
+<!-- Add a custom GIF banner (Replace with your own GIF URL) -->
+<p align="center">
+   <img src="https://raw.githubusercontent.com/vinay-singh-dev/assets/main/banner.gif" width="100%" alt="Vinay's GitHub Banner"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&lines=Android+Developer;Kotlin+Enthusiast;Building+Apps+with+Jetpack+Compose" />
+</p>
+
 <h3 align="center">🚀 A Passionate Android Developer from India</h3>
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=vinay-singh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
+### **🌱 About Me**
 - 🌱 I’m currently learning **Jetpack Compose**
 - 💬 Ask me about **Android, Kotlin, KMP**
 - 📫 How to reach me: [vv4011273@gmail.com](mailto:vv4011273@gmail.com)
 
 ---
 
-### **📲 Connect with Me:**
-<p align="left">
+### **📲 Connect with Me**
+<p align="center">
    <a href="https://www.linkedin.com/in/vinay-singh-baghel-1457402a4" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
    </a>
@@ -23,8 +39,8 @@
 
 ---
 
-### **🛠️ Languages & Tools:**
-<p align="left">
+### **🛠️ Languages & Tools**
+<p align="center">
    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
    </a>
@@ -53,17 +69,17 @@
 
 ---
 
-### **📊 GitHub Stats:**
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay-singh-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### **📊 GitHub Stats**
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay-singh-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay-singh-dev&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=vinay-singh-dev&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-singh-dev&" alt="GitHub Streak" />
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-singh-dev&" alt="GitHub Streak" />
 </p>
 
 ---
