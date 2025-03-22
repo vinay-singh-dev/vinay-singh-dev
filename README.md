@@ -1,24 +1,63 @@
-<h1 align="center">
-   Hi 👋, I'm Vinay Singh Baghel
+<h1 align="center"> 
+   Hey there! 👋 I'm Vinay Singh Baghel  
 </h1>
 
-<!-- Add a custom GIF banner -->
+<!-- Animated Banner -->
 <p align="center">
    <img src="https://raw.githubusercontent.com/vinay-singh-dev/assets/main/banner.gif" width="100%" alt="Vinay's GitHub Banner"/>
 </p>
 
-<!-- Coding GIF (Person Coding) -->
+<!-- Typing Animation -->
 <p align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding GIF"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Enthusiast;Jetpack+Compose+Learner;Passionate+about+Building+Apps!;Always+learning+and+improving!">
 </p>
 
-<!-- Typing animation -->
+---
+
+### **👨‍💻 About Me**
+- 🚀 **Android Developer** | **Jetpack Compose Enthusiast**  
+- 🌱 Currently exploring **Kotlin, KMP, and Jetpack Compose**  
+- 💡 I enjoy solving problems and building scalable mobile applications  
+- 🔥 Passionate about **open-source contributions & learning new technologies**  
+- 📫 Reach me at: **[vv4011273@gmail.com](mailto:vv4011273@gmail.com)**  
+
+---
+
+### **📲 Connect with Me**
 <p align="center">
-   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&lines=Android+Developer;Kotlin+Enthusiast;Building+Apps+with+Jetpack+Compose" />
+   <a href="https://www.linkedin.com/in/vinay-singh-baghel-1457402a4" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>
+   <a href="https://www.leetcode.com/luffytaro12" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+   </a>
 </p>
 
-<h3 align="center">🚀 A Passionate Android Developer from India</h3>
+---
+
+### **🛠️ Languages & Tools**
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,figma,python,mysql,postman" alt="Skills" />
+</p>
+
+---
+
+### **🚀 My GitHub Stats**
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=vinay-singh-dev&show_icons=true&theme=radical" width="400"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-singh-dev&theme=radical" width="400"/>
+</p>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=vinay-singh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh-dev&layout=compact&theme=radical" width="400"/>
 </p>
+
+---
+
+### **⚡ Fun Fact**
+🎯 "Debugging is like being the detective in a crime movie where you are also the murderer!" 😆  
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!** 😊  
+📬 **Feel free to reach out or contribute!** 🚀  
