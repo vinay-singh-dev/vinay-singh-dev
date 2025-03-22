@@ -20,8 +20,6 @@
 - 💡 I enjoy solving problems and building scalable mobile applications  
 - 🔥 Passionate about **open-source contributions & learning new technologies**  
 - 📫 Reach me at: **[vv4011273@gmail.com](mailto:vv4011273@gmail.com)**  
-### 🐍 Contribution Snake Animation
-![snake gif](https://github.com/vinay-singh-dev/vinay-singh-dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
