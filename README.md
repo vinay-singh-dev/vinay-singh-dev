@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   Hey there! 👋 I'm Vinay Singh Baghel  
+   Hey there! 👋 I'm Vinay Singh Baghel
 </h1>
 
 <!-- Animated Banner -->
@@ -15,7 +15,7 @@
 ---
 
 ### **👨‍💻 About Me**
-- 🚀 **Android Developer** | **Jetpack Compose Enthusiast**  
+- 🚀 **Android Developer** | **Jetpack Compose Enthusiast** 
 - 🌱 Currently exploring **Kotlin, KMP, and Jetpack Compose**  
 - 💡 I enjoy solving problems and building scalable mobile applications  
 - 🔥 Passionate about **open-source contributions & learning new technologies**  
