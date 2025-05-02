@@ -3,14 +3,12 @@
 </h1>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/vinay-singh-dev/assets/main/Coding%20Looney%20Tunes%20GIF%20by%20Looney%20Tunes%20World%20of%20Mayhem.gif" width="600" alt="Coding Looney Tunes Animation"/>
+   <img src="https://raw.githubusercontent.com/vinay-singh-dev/assests/main/Coding%20Looney%20Tunes%20GIF%20by%20Looney%20Tunes%20World%20of%20Mayhem.gif" width="600" alt="Coding Looney Tunes Animation"/>
 </p>
 
 
-<!-- Typing Animation -->
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Enthusiast;Jetpack+Compose+Learner;Passionate+about+Building+Apps!;Always+learning+and+improving!">
-</p>
+
+
 
 ---
 
