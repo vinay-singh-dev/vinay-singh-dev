@@ -2,9 +2,9 @@
    Hey there! 👋 I'm Vinay Singh Baghel
 </h1>
 
-<!-- Animated Banner -->
+<!-- Custom Animated Coding Banner -->
 <p align="center">
-   <img src="https://raw.githubusercontent.com/vinay-singh-dev/assets/main/banner.gif" width="100%" alt="Vinay's GitHub Banner"/>
+   <img src="https://raw.githubusercontent.com/vinay-singh-dev/assets/main/developer-coding-banner.png" width="100%" alt="Vinay Coding Banner"/>
 </p>
 
 <!-- Typing Animation -->
@@ -94,4 +94,4 @@
 ---
 
 ⭐ **If you like my work, consider giving my repositories a star!** 😊  
-📬 **Feel free to reach out or contribute!** 🚀  
+📬 **Feel free to reach out or contribute!** 🚀
