@@ -2,10 +2,10 @@
    Hey there! 👋 I'm Vinay Singh Baghel
 </h1>
 
-<!-- Custom Animated Coding Banner -->
 <p align="center">
-   <img src="https://raw.githubusercontent.com/vinay-singh-dev/assets/main/developer-coding-banner.png" width="100%" alt="Vinay Coding Banner"/>
+   <img src="https://raw.githubusercontent.com/vinay-singh-dev/assets/main/Coding%20Looney%20Tunes%20GIF%20by%20Looney%20Tunes%20World%20of%20Mayhem.gif" width="600" alt="Coding Looney Tunes Animation"/>
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
