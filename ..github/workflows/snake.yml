@@ -1,24 +1,24 @@
-name: Generate Contribution Snake
+# name: Generate Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"  # Runs daily at midnight
 
-  workflow_dispatch:
+#   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v2
-        with:
-          github_user_name: vinay-singh-dev  # Change to your username
-          outputs: |
-            github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: github-contribution-grid-snake.svg
-      - uses: actions/upload-pages-artifact@v1
-        with:
-          path: github-contribution-grid-snake.svg
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: Platane/snk@v2
+#         with:
+#           github_user_name: vinay-singh-dev  # Change to your username
+#           outputs: |
+#             github-contribution-grid-snake.svg
+#       - uses: actions/upload-artifact@v3
+#         with:
+#           name: snake-animation
+#           path: github-contribution-grid-snake.svg
+#       - uses: actions/upload-pages-artifact@v1
+#         with:
+#           path: github-contribution-grid-snake.svg
