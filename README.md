@@ -6,10 +6,6 @@
    <img src="https://raw.githubusercontent.com/vinay-singh-dev/assests/main/Coding%20Looney%20Tunes%20GIF%20by%20Looney%20Tunes%20World%20of%20Mayhem.gif" width="600" alt="Coding Looney Tunes Animation"/>
 </p>
 
-
-
-
-
 ---
 
 ### **👨‍💻 About Me**
@@ -74,14 +70,33 @@
 
 ---
 
-### **🚀 My GitHub Stats**
+### 🚀 GitHub Trophies
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=vinay-singh-dev&show_icons=true&theme=radical" width="400"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-singh-dev&theme=radical" width="400"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vinay-singh-dev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+<p align="center" style="max-width: 600px; margin: auto; font-style: italic; color: #888;">
+  These trophies showcase my GitHub achievements including commits, stars, followers, issues, pull requests, and repositories.
 </p>
 
+---
+
+### 📊 GitHub Stats & Activity
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh-dev&layout=compact&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinay-singh-dev&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-singh-dev&theme=radical" width="400" />
+</p>
+<p align="center" style="max-width: 800px; margin: auto; font-style: italic; color: #888;">
+  My overall GitHub stats including contributions, and my current and longest daily contribution streaks.
+</p>
+
+---
+
+### 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh-dev&layout=compact&theme=radical" width="400" />
+</p>
+<p align="center" style="max-width: 600px; margin: auto; font-style: italic; color: #888;">
+  A quick look at my most used programming languages based on my GitHub repos.
 </p>
 
 ---
@@ -92,4 +107,4 @@
 ---
 
 ⭐ **If you like my work, consider giving my repositories a star!** 😊  
-📬 **Feel free to reach out or contribute!** 🚀
+📬 **Feel free to reach out or contribute!** 🚀  
