@@ -9,11 +9,11 @@
 ---
 
 ### **👨‍💻 About Me**
-- 🚀 **Android Developer** | **Jetpack Compose Enthusiast** 
-- 🌱 Currently exploring **Kotlin, KMP, and Jetpack Compose**  
-- 💡 I enjoy solving problems and building scalable mobile applications  
-- 🔥 Passionate about **open-source contributions & learning new technologies**  
-- 📫 Reach me at: **[vv4011273@gmail.com](mailto:vv4011273@gmail.com)**  
+-  **Android Developer** 
+-  Currently exploring **Kotlin, KMP, and Jetpack Compose**  
+-  I enjoy solving problems and building scalable mobile applications  
+-  Passionate about **open-source contributions & learning new technologies**  
+-  Reach me at: **[vv4011273@gmail.com](mailto:vv4011273@gmail.com)**  
 
 ---
 
